@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-nsei8q.donaciones-iglesiaavivamiento.top/sitemap.xml
